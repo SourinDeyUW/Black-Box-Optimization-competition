@@ -1,5 +1,5 @@
 # Black-Box-Optimization-competition </br>
-[https://bbochallenge.com/leaderboard] (Link of the leaderboard) </br>
+(https://bbochallenge.com/leaderboard) </br>
 
 Got 26th position : Optimizer from Wyoming.
 
