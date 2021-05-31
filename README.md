@@ -1,7 +1,7 @@
 # Black-Box-Optimization-competition </br>
 (https://bbochallenge.com/leaderboard) </br>
 
-Got 26th position : Optimizer from Wyoming.
+ID : Optimizer from Wyoming.
 
 Things I did </br>
     1. Surrogate Modification: checking different surrogates, modifying GP kernels, initial design. </br>
